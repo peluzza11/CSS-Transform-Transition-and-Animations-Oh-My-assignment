@@ -1,0 +1,20 @@
+nav {
+    display: flex;
+    gap: 0.5rem;
+  }
+  
+  button {
+    flex: 1;
+    background-color: ghostwhite;
+    border: 1px solid;
+    padding: 0.5rem;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.5s ease-out;
+  }
+  
+  button:hover,
+  button:focus {
+    background-color: cornflowerblue;
+  }
+  
